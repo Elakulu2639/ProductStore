@@ -1,97 +1,106 @@
-# ProductStore
+# ProductStore - ASP.NET MVC Product Management System
 
- Overview
+![ASP.NET Core](https://img.shields.io/badge/.NET-7.0-blue)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-ProductStore is an ASP.NET Core MVC application designed for managing products in an online store  using ASP.NET Core MVC, SQL Server, and Entity Framework Core. 
-It provides functionalities for creating, reading, updating, and deleting products, along with image upload capabilities. 
-The application follows the MVC architectural pattern, ensuring a clean separation of concerns.
+A full-featured product management system implementing secure CRUD operations with authentication.
 
- Features
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Database Schema](#database-schema)
+- [Author](#author)
 
-- User-Friendly Interface: Intuitive web interface for managing products.
-- CRUD Operations: Create, read, update, and delete products easily.
-- Image Upload: Upload product images with validation.
-- Data Persistence: Uses Entity Framework Core for database interactions.
-- Responsive Design: Mobile-friendly layout for accessibility.
+## Features ✨
+- User Authentication 🔒
+  - Secure login/registration using ASP.NET Core Identity
+  - Role-based access control
+  - Session management
 
- Prerequisites
+- Product Management 📦
+  - Create, Read, Update, Delete (CRUD) operations
+  - Image upload with file validation (JPEG/PNG)
+  - Product search and filtering
 
-- [.NET SDK](https://dotnet.microsoft.com/download/dotnet/7.0)(version 7.0 or later) 
+- Validation ✔️
+  - Client-side form validation
+  - Server-side model validation
+  - Anti-forgery token protection
+
+- UI/UX 💻
+  - Responsive Bootstrap 5 design
+  - Font Awesome icons
+  - Modal confirmation dialogs
+  - Real-time feedback messages
+
+## Tech Stack 🛠
+Frontend  
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0+-purple) | ![Razor](https://img.shields.io/badge/Razor-ASP.NET-blue) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-6.0+-orange) |
+|------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------|
+
+Backend  
+| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7.0-blue) | ![EF Core](https://img.shields.io/badge/EF_Core-7.0-red) | 
+|---------------------------------------------------------------------|----------------------------------------------------------|
+
+Database  
+| ![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-blue) |
+|-------------------------------------------------------------------|
+
+## Getting Started 🚀
+
+### Prerequisites
+- [.NET 9.0 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server 2019+](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (Optional)
-- [Visual Studio 2022+](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio 2022+](https://visualstudio.microsoft.com/) (Recommended)
+- [Entity Framework Core Tools](https://docs.microsoft.com/en-us/ef/core/cli/)
 
-Installation
-
+### Installation
 1. Clone the repository
-   ```
-   git clone https://github.com/ElaKulu2639/ProductStore.git
+      git clone https://github.com/ElaKulu2639/ProductStore.git
    cd ProductStore
-2. Restore Dependencies:
-   ```
-   dotnet restore
-3. Set Up the Database:
+2. Configure the database:
+     -Create SQL Server database "ProductStoreDb"
+     -Update connection string in appsettings.json:
+   
+   
+        "ConnectionStrings": {
+    "DefaultConnection": "YOUR_CONNECTION_STRING"
+   }
 
-   Update the connection string in appsettings.json to point to your SQL Server instance.
-   Run migrations to set up the database schema:
-     ```
-     dotnet ef database update
+3. Apply database migrations:
+   
+     Update-Database
+
 4. Run the application
-   
-   Usage
 
-    Navigate to Products in the navigation menu
+Database Schema 🗃
 
-    Use the following actions:
+    
+       erDiagram
+    Users ||--o{ Products : creates
+    Users {
+        string Id PK
+        string UserName
+        string Email
+        string PasswordHash
+        datetime CreatedAt
+    }
+    Products {
+        int Id PK
+        string Name
+        string Brand
+        string Category
+        decimal Price
+        string ImageFileName
+        datetime CreatedAt
+        string UserId FK
+    }
 
-      -New Product: Add a new product using the form
-
-      -Edit: Modify existing product details
-
-      -Delete: Remove a product from the system
-   
-Project Structure
- ProductStore/
-│
-├── Controllers/          # Contains the MVC controllers
-│   └── ProductsController.cs
-│
-├── Models/               # Contains data models and DTOs
-│   └── Product.cs
-│   └── ProductDto.cs
-│
-├── Views/                # Contains Razor views
-│   ├── Products/
-│   │   ├── Index.cshtml
-│   │   ├── Create.cshtml
-│   │   └── Edit.cshtml
-│   └── Shared/
-│       └── _Layout.cshtml
-│
-├── wwwroot/              # Contains static files (CSS, JS, images)
-│   ├── css/
-│   ├── js/
-│   └── products/         # Uploaded product images
-│
-├── Services/                 # Contains database context and migrations
-│   └── ApplicationDbContext.cs
-│
-├── Migrations/           # Contains EF Core migration files
-│      
-├── Properties/           # Contains project properties
-│   └── launchSettings.json
-│
-└── appsettings.json      # Configuration settings
-
-Technologies Used
-
-  -ASP.NET Core MVC 
-  -Entity Framework Core 
-  -SQL Server Database
-  -Bootstrap (Frontend styling)
-  
-Contact
-
-Name: Elias Aynekulu
-Email: e9710092@gmail.com
-GitHub: ElaKulu2639
+ Author 👨💻
+Elias Aynekulu
+Email-e9710092@gmail.com
+GitHub-ElaKulu2639
