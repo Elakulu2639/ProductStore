@@ -1,8 +1,7 @@
 # ProductStore - ASP.NET MVC Product Management System
 
-![ASP.NET Core](https://img.shields.io/badge/.NET-7.0-blue)
+![ASP.NET Core](https://img.shields.io/badge/.NET-9.0-blue)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A full-featured product management system implementing secure CRUD operations with authentication.
 
@@ -24,7 +23,6 @@ A full-featured product management system implementing secure CRUD operations wi
 - Product Management 📦
   - Create, Read, Update, Delete (CRUD) operations
   - Image upload with file validation (JPEG/PNG)
-  - Product search and filtering
 
 - Validation ✔️
   - Client-side form validation
@@ -35,7 +33,6 @@ A full-featured product management system implementing secure CRUD operations wi
   - Responsive Bootstrap 5 design
   - Font Awesome icons
   - Modal confirmation dialogs
-  - Real-time feedback messages
 
 ## Tech Stack 🛠
 Frontend  
@@ -43,7 +40,7 @@ Frontend
 |------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------|
 
 Backend  
-| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-7.0-blue) | ![EF Core](https://img.shields.io/badge/EF_Core-7.0-red) | 
+| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-9.0-blue) | ![EF Core](https://img.shields.io/badge/EF_Core-9.0-red) | 
 |---------------------------------------------------------------------|----------------------------------------------------------|
 
 Database  
@@ -65,7 +62,7 @@ Database
 2. Configure the database:
      -Create SQL Server database "ProductStoreDb"
      -Update connection string in appsettings.json:
-   
+   ```
    
         "ConnectionStrings": {
     "DefaultConnection": "YOUR_CONNECTION_STRING"
