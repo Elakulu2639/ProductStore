@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k3bOFEwzGdk/7Idy6GTHXoy9i825F5+tZ6mRPDHVhsw=",
+  "Hash": "cjQ/YUDCvmt45henU4sr3U8StoUJ8F21UT7SqApsDvw=",
   "Source": "ProductStore",
   "BasePath": "_content/ProductStore",
   "Mode": "Default",
@@ -2726,54 +2726,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250329092700809.jpg",
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153408476.jpg",
       "SourceId": "ProductStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
       "BasePath": "_content/ProductStore",
-      "RelativePath": "products/20250329092700809#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gwhijo1ckw",
-      "Integrity": "II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\20250329092700809.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291031SS348.jpg",
-      "SourceId": "ProductStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
-      "BasePath": "_content/ProductStore",
-      "RelativePath": "products/202503291031SS348#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "lzdnaeo9vx",
-      "Integrity": "kajyw1RkgOpvPHGLD4sPqo/dod+YrXb9WkVO2cldUro=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\202503291031SS348.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291036SS114.jpg",
-      "SourceId": "ProductStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
-      "BasePath": "_content/ProductStore",
-      "RelativePath": "products/202503291036SS114#[.{fingerprint}]?.jpg",
+      "RelativePath": "products/20250401153408476#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2786,7 +2744,91 @@
       "Integrity": "Ka6mqKPHN+gjHlpQR8hgjPeU4XxQcQ+jOsd0IW4GyhU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\202503291036SS114.jpg"
+      "OriginalItemSpec": "wwwroot\\products\\20250401153408476.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153706216.jpg",
+      "SourceId": "ProductStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
+      "BasePath": "_content/ProductStore",
+      "RelativePath": "products/20250401153706216#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gwhijo1ckw",
+      "Integrity": "II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20250401153706216.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153858166.jpg",
+      "SourceId": "ProductStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
+      "BasePath": "_content/ProductStore",
+      "RelativePath": "products/20250401153858166#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zu6vvl6rsq",
+      "Integrity": "hbiApGiH7QSSxCOFZsRL12S+1lQI70qAKkNMn8rxrj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20250401153858166.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401154119054.jpg",
+      "SourceId": "ProductStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
+      "BasePath": "_content/ProductStore",
+      "RelativePath": "products/20250401154119054#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jrx0rhbfni",
+      "Integrity": "EQYsR7TDW6fk6avbrufnJN2GXPUloTQ1gBzR3R4UUXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20250401154119054.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401170022826.jpg",
+      "SourceId": "ProductStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\",
+      "BasePath": "_content/ProductStore",
+      "RelativePath": "products/20250401170022826#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ymrse1enyd",
+      "Integrity": "6oxGt2oWInkkPuA2IywKxfadHN8fVJ70gMGosfmVzl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20250401170022826.jpg"
     },
     {
       "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\bluetooth_speaker.jpg",
@@ -21496,172 +21538,8 @@
       ]
     },
     {
-      "Route": "products/20250329092700809.gwhijo1ckw.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250329092700809.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4230716"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 06:27:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gwhijo1ckw"
-        },
-        {
-          "Name": "label",
-          "Value": "products/20250329092700809.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU="
-        }
-      ]
-    },
-    {
-      "Route": "products/20250329092700809.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250329092700809.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4230716"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 06:27:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU="
-        }
-      ]
-    },
-    {
-      "Route": "products/202503291031SS348.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291031SS348.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "176150"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kajyw1RkgOpvPHGLD4sPqo/dod+YrXb9WkVO2cldUro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:31:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kajyw1RkgOpvPHGLD4sPqo/dod+YrXb9WkVO2cldUro="
-        }
-      ]
-    },
-    {
-      "Route": "products/202503291031SS348.lzdnaeo9vx.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291031SS348.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "176150"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kajyw1RkgOpvPHGLD4sPqo/dod+YrXb9WkVO2cldUro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:31:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lzdnaeo9vx"
-        },
-        {
-          "Name": "label",
-          "Value": "products/202503291031SS348.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kajyw1RkgOpvPHGLD4sPqo/dod+YrXb9WkVO2cldUro="
-        }
-      ]
-    },
-    {
-      "Route": "products/202503291036SS114.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291036SS114.jpg",
+      "Route": "products/20250401153408476.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153408476.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21682,7 +21560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:36:47 GMT"
+          "Value": "Tue, 01 Apr 2025 12:34:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21697,8 +21575,8 @@
       ]
     },
     {
-      "Route": "products/202503291036SS114.lxfeanemfb.jpg",
-      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\202503291036SS114.jpg",
+      "Route": "products/20250401153408476.lxfeanemfb.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153408476.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21719,7 +21597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:36:47 GMT"
+          "Value": "Tue, 01 Apr 2025 12:34:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21733,11 +21611,339 @@
         },
         {
           "Name": "label",
-          "Value": "products/202503291036SS114.jpg"
+          "Value": "products/20250401153408476.jpg"
         },
         {
           "Name": "integrity",
           "Value": "sha256-Ka6mqKPHN+gjHlpQR8hgjPeU4XxQcQ+jOsd0IW4GyhU="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401153706216.gwhijo1ckw.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153706216.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4230716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:37:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gwhijo1ckw"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20250401153706216.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401153706216.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153706216.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4230716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:37:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-II5BA52yGjYojyAvXAGSvosy62UAykI+CA13EQBCJYU="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401153858166.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153858166.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25124604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbiApGiH7QSSxCOFZsRL12S+1lQI70qAKkNMn8rxrj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbiApGiH7QSSxCOFZsRL12S+1lQI70qAKkNMn8rxrj0="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401153858166.zu6vvl6rsq.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401153858166.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25124604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hbiApGiH7QSSxCOFZsRL12S+1lQI70qAKkNMn8rxrj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:38:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zu6vvl6rsq"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20250401153858166.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hbiApGiH7QSSxCOFZsRL12S+1lQI70qAKkNMn8rxrj0="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401154119054.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401154119054.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1726285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EQYsR7TDW6fk6avbrufnJN2GXPUloTQ1gBzR3R4UUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQYsR7TDW6fk6avbrufnJN2GXPUloTQ1gBzR3R4UUXk="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401154119054.jrx0rhbfni.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401154119054.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1726285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EQYsR7TDW6fk6avbrufnJN2GXPUloTQ1gBzR3R4UUXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrx0rhbfni"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20250401154119054.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQYsR7TDW6fk6avbrufnJN2GXPUloTQ1gBzR3R4UUXk="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401170022826.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401170022826.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5417274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oxGt2oWInkkPuA2IywKxfadHN8fVJ70gMGosfmVzl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 14:00:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oxGt2oWInkkPuA2IywKxfadHN8fVJ70gMGosfmVzl8="
+        }
+      ]
+    },
+    {
+      "Route": "products/20250401170022826.ymrse1enyd.jpg",
+      "AssetFile": "C:\\Users\\Hp\\OneDrive\\Desktop\\courses\\INTERNSHIP\\ProductStore\\ProductStore\\wwwroot\\products\\20250401170022826.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5417274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6oxGt2oWInkkPuA2IywKxfadHN8fVJ70gMGosfmVzl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 14:00:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ymrse1enyd"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20250401170022826.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6oxGt2oWInkkPuA2IywKxfadHN8fVJ70gMGosfmVzl8="
         }
       ]
     },
@@ -22340,7 +22546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22393,7 +22599,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22430,7 +22636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22477,7 +22683,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22538,7 +22744,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22583,7 +22789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22638,7 +22844,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22699,7 +22905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22744,7 +22950,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22799,7 +23005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22852,7 +23058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22889,7 +23095,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 00:55:07 GMT"
+          "Value": "Tue, 01 Apr 2025 06:35:24 GMT"
         },
         {
           "Name": "Cache-Control",

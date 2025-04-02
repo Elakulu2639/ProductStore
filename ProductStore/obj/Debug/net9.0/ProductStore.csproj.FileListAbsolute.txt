@@ -1,3 +1,12 @@
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.RazorAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.RazorAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.sourcelink.json
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\appsettings.json
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\ProductStore.staticwebassets.runtime.json
@@ -10,6 +19,9 @@ C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\De
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -30,6 +42,8 @@ C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\De
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -137,14 +151,6 @@ C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\De
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.csproj.AssemblyReference.cache
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.AssemblyInfoInputs.cache
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.AssemblyInfo.cs
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.csproj.CoreCompileInputs.cache
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.RazorAssemblyInfo.cache
-C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\ProductStore.RazorAssemblyInfo.cs
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\scopedcss\bundle\ProductStore.styles.css
 C:\Users\Hp\OneDrive\Desktop\courses\INTERNSHIP\ProductStore\ProductStore\obj\Debug\net9.0\scopedcss\projectbundle\ProductStore.bundle.scp.css

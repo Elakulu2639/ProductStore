@@ -1,9 +1,16 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.IO;
+using System.Linq;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using ProductStore.Models;
 using ProductStore.Services;
 
+
 namespace ProductStore.Controllers
 {
+    [Authorize]
     public class ProductsController : Controller
     {
         private readonly ApplicationDbContext context;
@@ -16,7 +23,7 @@ namespace ProductStore.Controllers
         }
         public IActionResult Index()
         {
-            var products = context.Proucts.OrderByDescending(p =>p.Id).ToList();
+            var products = context.Products.OrderByDescending(p => p.Id).ToList();
             return View(products);
         }
         public IActionResult Create()
@@ -26,11 +33,11 @@ namespace ProductStore.Controllers
         [HttpPost]
         public IActionResult Create(ProductDto productDto)
         {
-            if(productDto.ImageFile==null)
+            if (productDto.ImageFile == null)
             {
                 ModelState.AddModelError("ImageFile", "The image file is required");
             }
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(productDto);
             }
@@ -56,7 +63,7 @@ namespace ProductStore.Controllers
                 CreatedAt = DateTime.Now,
             };
 
-            context.Proucts.Add(product);
+            context.Products.Add(product);
             context.SaveChanges();
 
 
@@ -64,7 +71,7 @@ namespace ProductStore.Controllers
         }
         public IActionResult Edit(int id)
         {
-            var product = context.Proucts.Find(id);
+            var product = context.Products.Find(id);
             if (product == null)
             {
                 return RedirectToAction("Index", "Products");
@@ -92,7 +99,7 @@ namespace ProductStore.Controllers
         [HttpPost]
         public IActionResult Edit(int id, ProductDto productDto)
         {
-            var product = context.Proucts.Find(id);
+            var product = context.Products.Find(id);
             if (product == null)
             {
                 return RedirectToAction("Index", "Products");
@@ -110,7 +117,7 @@ namespace ProductStore.Controllers
 
             //update the image file if we have a new image file
             string newFileName = product.ImageFileName;
-            if (productDto.ImageFile !=null)
+            if (productDto.ImageFile != null)
             {
                 newFileName = DateTime.Now.ToString("yyyyMMddHHmmSSfff");
                 newFileName += Path.GetExtension(productDto.ImageFile.FileName);
@@ -124,7 +131,7 @@ namespace ProductStore.Controllers
                 //delete the old image
                 string oldImageFullPath = environment.WebRootPath + "/products/" + product.ImageFileName;
                 System.IO.File.Delete(oldImageFullPath);
-            } 
+            }
 
 
             //update the product in the database
@@ -141,23 +148,30 @@ namespace ProductStore.Controllers
             return RedirectToAction("Index", "Products");
         }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Delete(int id)
         {
-            var product = context.Proucts.Find(id);
+            var product = context.Products.Find(id);
             if (product == null)
             {
                 return RedirectToAction("Index", "Products");
-
             }
 
-            string imageFullPath = environment.WebRootPath + "/products/" + product.ImageFileName;
-            System.IO.File.Delete(imageFullPath);
+            // Delete associated image file if it exists
+            if (!string.IsNullOrEmpty(product.ImageFileName))
+            {
+                string imageFullPath = Path.Combine(environment.WebRootPath, "products", product.ImageFileName);
+                if (System.IO.File.Exists(imageFullPath))
+                {
+                    System.IO.File.Delete(imageFullPath);
+                }
+            }
 
-            context.Proucts.Remove(product);
-            context.SaveChanges(true);
+            context.Products.Remove(product);
+            context.SaveChanges();
 
             return RedirectToAction("Index", "Products");
-
         }
     }
 }

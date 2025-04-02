@@ -123,9 +123,11 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\products\20250329092700809.jpg
-wwwroot\products\202503291031SS348.jpg
-wwwroot\products\202503291036SS114.jpg
+wwwroot\products\20250401153408476.jpg
+wwwroot\products\20250401153706216.jpg
+wwwroot\products\20250401153858166.jpg
+wwwroot\products\20250401154119054.jpg
+wwwroot\products\20250401170022826.jpg
 wwwroot\products\bluetooth_speaker.jpg
 wwwroot\products\MacBook.jpg
 wwwroot\products\smart_watch.jpg
